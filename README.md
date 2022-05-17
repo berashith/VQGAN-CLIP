@@ -1,6 +1,6 @@
 # VQGAN-CLIP Overview
 
-A repo for running VQGAN+CLIP locally. This started out as a Katherine Crowson VQGAN+CLIP derived Google colab notebook.
+A repo for running VQGAN+CLIP locally. This started out as a Katherine Crowson VQGAN+CLIP derived Google colab notebook. I've grabbed Nerdyrodent's great version to make slight tweaks so that it's easier to use for larger scale art production and batch runs.
 
 <a href="https://replicate.ai/nerdyrodent/vqgan-clip"><img src="https://img.shields.io/static/v1?label=Replicate&message=Demo and Docker Image&color=blue"></a>
 
